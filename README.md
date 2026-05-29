@@ -5,7 +5,7 @@ A modern and responsive authentication UI built using HTML, CSS, and JavaScript.
 
 This project includes a beautifully designed Login and Create Account page with interactive features like a Password Strength Indicator and Social Login Buttons.
 
-✨ Features
+✨ Features:
 
 - 🔐 Secure Login Page
 - 📝 Create Account / Registration Page
@@ -14,13 +14,13 @@ This project includes a beautifully designed Login and Create Account page with 
 - 📱 Fully Responsive Design
 - 🎨 Clean and Modern User Interface
 
-🛠️ Built With
+🛠️ Built With:
 
 - HTML – For structuring the web pages
 - CSS – For styling and responsive design
 - JavaScript – For interactivity and validation
 
-📚 Learning Outcomes
+📚 Learning Outcomes:
 
 Through this project, I enhanced my understanding of:
 - Building well-structured web pages with HTML
@@ -30,7 +30,7 @@ Through this project, I enhanced my understanding of:
 - Developing modern and user-friendly authentication UIs
 - Front-End Development (Basics)
 
- 💡 Application Pages
+ 💡 Application Pages:
  
 1️⃣ Login Page
 Users can:
@@ -43,17 +43,21 @@ Users can:
 Register a new account
 Receive real-time password strength feedback
 
-🚀 Future Improvements
+🚀 Future Improvements:
 
 Add backend authentication
 Store user data using databases
 Implement OTP/email verification
 Add dark mode support
 
-🎯 Project Outcome
+🎯 Project Outcome:
 
 This project helped me gain hands-on experience in building modern front-end applications and understanding how authentication interfaces are designed in real-world applications.
 I’m excited to continue improving my web development skills and build more real-world projects. 🚀
+
+🌐 Site is Live at:
+
+https://pragna0506.github.io/Login-and-SignUp-Page-/
 
 👩‍💻 Author
 Pragna S 

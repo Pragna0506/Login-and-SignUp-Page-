@@ -31,23 +31,27 @@ Through this project, I enhanced my understanding of:
 - Front-End Development (Basics)
 
  💡 Application Pages
+ 
 1️⃣ Login Page
 Users can:
 Log in using credentials
 Continue with Google
 Continue with GitHub
+
 2️⃣ Create Account Page
 Users can:
 Register a new account
 Receive real-time password strength feedback
 
 🚀 Future Improvements
+
 Add backend authentication
 Store user data using databases
 Implement OTP/email verification
 Add dark mode support
 
 🎯 Project Outcome
+
 This project helped me gain hands-on experience in building modern front-end applications and understanding how authentication interfaces are designed in real-world applications.
 I’m excited to continue improving my web development skills and build more real-world projects. 🚀
 
